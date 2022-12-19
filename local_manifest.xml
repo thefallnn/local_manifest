@@ -6,6 +6,5 @@
  <project path="device/xiaomi/veux-kernel" name="kleidione/device_xiaomi_veux-kernel.git" remote="github" revision="thirteen" />
  <project path="vendor/xiaomi/veux" name="kleidione/vendor_xiaomi_veux.git" remote="github" revision="thirteen" />
  <project path="kernel/xiaomi/sm6375" name="kleidione/kernel_xiaomi_sm6375.git" remote="github" revision="thirteen" />
- <project path="hardware/qcom-caf/sm8350/display" name="xiaomi-sm6375-devs/android_hardware_qcom-caf_sm8350_display.git" remote="github" revision="lineage-19.1-caf-sm8350" />
  
 </manifest>
